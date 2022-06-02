@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+    background-color: #EDECE9;
+    color: #775548;
+
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    color:#E1D4CF;
+    background-color: #775548;
+    font-size: 30px;
+
+}
+
+.h2-amarillo {
+    color:#DBB13B;
+}
+
+
+a {
+    color: #EF620D;
+    font-weight: 600;
+}
+
+.a-LaNacion {
+    color:#32A9C3;
+}
+
+.a-Pagina12 {
+    color:#F03D56;
+ 
+}
+
+div a {
+    font-size: 30px;
+
+}
+
+.img-cabanias {
+    width: 500px;
+    border: 5px solid #DBB13B;
+}
+
+p {
+    font-weight: 600;
+    color: black;
+}
+
+.img-carpas {
+    width: 500px;
+    border: 5px solid #32A9C3;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 30px;
+    color:#F03D56;
+    text-align: center;
+}
+
+.p-aviso {
+    background-color:  #F03D56;
+    text-align: center;
+    font-weight: 100;
+}
+
+.img-bicicletas {
+    width: 500px;
+    border: 5px solid rgb(118, 165, 46);
+}
+
+.img-redes-sociales {
+    width: 200px;
+    display: block;
+    
+}
+
